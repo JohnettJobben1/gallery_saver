@@ -13,6 +13,9 @@ dependencies:
   flutter:
     sdk: flutter
 
+dependency_overrides:
+  flutter_plugin_android_lifecycle: 2.0.26
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
